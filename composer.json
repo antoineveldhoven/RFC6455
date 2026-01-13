@@ -1,5 +1,5 @@
 {
-    "name": "antoineveldhoven/rfc6455",
+    "name": "invitado/rfc6455",
     "type": "library",
     "description": "RFC6455 WebSocket protocol handler",
     "keywords": ["WebSockets", "websocket", "RFC6455"],
